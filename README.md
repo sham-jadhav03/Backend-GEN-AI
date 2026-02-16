@@ -63,4 +63,5 @@ Moving towards a deeper understanding involves:
 
 ### RAG Pipeline Definition
 > A **Retrieval-Augmented Generation (RAG)** pipeline is an AI framework that enhances the capabilities of Large Language Models (LLMs) by connecting them with external, up-to-date knowledge bases. This allows the system to provide accurate, context-aware, and factually grounded responses, bridging the gap between static training data and real-world information.
-
+### GEN-Ai 
+> A ** Deep driven in AI, their service APIs, and many more things have come in it, like OpenAI API Key, GEMINI API KEY, and many more 
