@@ -1,12 +1,12 @@
-## One Step to become best Developer
-1. How to solve the large problem into small problem.
+## One Step to Become the Best Developer
+1. How to solve a large problem into small problems.
  ```
-Convert large problem into small problems and
+Convert a large problem into small problems and
 Ex.
-We are designing an Search API in E-Commerce 
-how make break this large problem into small problems
+We are designing a Search API in E-Commerce 
+How to break this large problem into small problems
  ```
- 2.How to give tool to the an AI agent 
+ 2. How to give a tool to an AI agent 
  steps
 • Write the Function (The Code)
 Create a standard function in your code (such as Python) that performs a specific task like fetching weather, querying a database, or calling an API.
